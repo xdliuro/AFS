@@ -43,6 +43,6 @@ If you want to use PyAFS package in your research, please consider to cite our p
 
   publisher={Springer Berlin Heidelberg},
 
-  year={2009},
+  year={2009}
 }
 
